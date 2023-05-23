@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_eLibrary"
+        android:title="Library"
+        android:icon="@drawable/papers"/>
+
+    <item android:id="@+id/navigation_prevPaper"
+        android:title="E-books"
+        android:icon="@drawable/ebook"/>
+
+   
+
+    <item android:id="@+id/navigation_website"
+        android:title="Website"
+        android:icon="@drawable/website"/>
+
+
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Developer"
+        android:icon="@drawable/developer"/>
+</menu>

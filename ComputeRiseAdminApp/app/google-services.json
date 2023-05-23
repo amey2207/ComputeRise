@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840943306444",
+    "project_id": "computerise-54aaf",
+    "storage_bucket": "computerise-54aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840943306444:android:0442f910e3bbe51d50a469",
+        "android_client_info": {
+          "package_name": "com.example.computeriseadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840943306444-h0rtm7mcsqfqvhr3nmabnlh1vld8mevh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.computeriseadminapp",
+            "certificate_hash": "5a3b78a655223736f1a80af1d7b9427c34be274a"
+          }
+        },
+        {
+          "client_id": "840943306444-f2i3oatbt03o0bp7s79l1euhigkbetha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeWXKivWkmRHxwbYWrQD9IDl2Hplw5s28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840943306444-f2i3oatbt03o0bp7s79l1euhigkbetha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
