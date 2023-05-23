@@ -4,7 +4,7 @@ College User-side Android Application using Firebase Realtime Database
 # **College Application User**
 
 
-College Application is an android application aimed to be a one-stop for Panjab University students.  
+College Application is an android application aimed to be a one-stop for VCET students.  
 It uses Firebase and SQLite to store and display the information to the user.
 The app uses Material UI for an attractive interface (subject to improvement) which attracts the user to stay on the app for more time.
 
@@ -22,21 +22,8 @@ It acts as a University assistant for Students. It is also useful for the parent
 - About
 - Navigation drawer
 - E-library
-- Previous Year Papers
-- Results
+
 - Website
-- Share
 
 
-<img src = "/Images/0.jpeg" width="235" height="500"/> <img src = "/Images/1.jpeg" width="235" height="500"/> <img src = "/Images/2.jpeg" width="235" height="500"/>
 
-<img src = "/Images/3.jpeg" width="235" height="500"/> <img src = "/Images/4.jpeg" width="235" height="500"/> <img src = "/Images/5.jpeg" width="235" height="500"/>
-
-<img src = "/Images/6.jpeg" width="235" height="500"/> <img src = "/Images/7.jpeg" width="235" height="500"/> <img src = "/Images/8.jpeg" width="235" height="500"/>
-
-<img src = "/Images/9.jpeg" width="235" height="500"/> <img src = "/Images/10.jpeg" width="235" height="500"/> 
-
-
-## Maintainers and Developers
-This repository is owned and maintained by 
- * [Saurabh](https://github.com/saurabh4748)
